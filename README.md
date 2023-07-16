@@ -1,3 +1,3 @@
-# GLS-Python
+# GLS-University
 
 GLS University
